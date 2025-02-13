@@ -1,0 +1,32 @@
+Age_Range,Gender,Median_Salary
+18-24,Man,48000.0000
+25-34,Man,77000.0000
+35-44,Man,93000.0000
+45-54,Man,102000.0000
+55-64,Man,96000.0000
+"65 or over",Man,104000.0000
+18-24,Non-binary,37500.0000
+25-34,Non-binary,55000.0000
+35-44,Non-binary,72000.0000
+45-54,Non-binary,64000.0000
+55-64,Non-binary,105000.0000
+"under 18",Non-binary,17000.0000
+18-24,Other,51500.0000
+25-34,Other,70000.0000
+35-44,Other,82000.0000
+45-54,Other,86000.0000
+55-64,Other,75000.0000
+"65 or over",Other,28000.0000
+18-24,"Prefer not to answer",38000.0000
+25-34,"Prefer not to answer",75000.0000
+35-44,"Prefer not to answer",82000.0000
+45-54,"Prefer not to answer",82000.0000
+55-64,"Prefer not to answer",107000.0000
+"under 18","Prefer not to answer",76.0000
+18-24,Woman,52000.0000
+25-34,Woman,67000.0000
+35-44,Woman,77500.0000
+45-54,Woman,79401.0000
+55-64,Woman,73500.0000
+"65 or over",Woman,80000.0000
+"under 18",Woman,40000.0000
